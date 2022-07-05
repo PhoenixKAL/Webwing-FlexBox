@@ -496,6 +496,9 @@ Business
   .business .single-business {
     flex: 1 0 calc(25% - 1rem);
   }
+  .business .single-business .business-icon {
+    width: 5rem;
+  }
 }
 /* 
 ==============
